@@ -1,0 +1,16 @@
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\Task_1_1.exe
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\Task_1_1.deps.json
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\Task_1_1.runtimeconfig.json
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\Task_1_1.runtimeconfig.dev.json
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\Task_1_1.dll
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\ref\Task_1_1.dll
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\bin\Debug\net5.0\Task_1_1.pdb
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.csproj.AssemblyReference.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.AssemblyInfoInputs.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.AssemblyInfo.cs
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.dll
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\ref\Task_1_1.dll
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.pdb
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_01\Task_1_1\Task_1_1\obj\Debug\net5.0\Task_1_1.genruntimeconfig.cache
