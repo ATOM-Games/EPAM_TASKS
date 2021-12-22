@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class NO_POSITIVE_1_1_8
+	class NO_POSITIVE_1_1_8 : Executable
 	{
 		
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.8 No positive ]<<<--------------]");
 			short[,,] qwerty;
@@ -21,9 +21,11 @@ namespace Task_1_1
 			Console.WriteLine("результат тут ↓↓↓↓");
 			zeroDown(qwerty);
 			outputMass(qwerty);
+
+			Console.ReadKey();
 		}
 
-		static void zeroDown<T>(T[,,] mass) where T : IComparable
+		void zeroDown<T>(T[,,] mass) where T : IComparable
 		{
 			
 			for (int x = 0; x < mass.GetLength(0); x++)
@@ -43,7 +45,7 @@ namespace Task_1_1
 			}
 		}
 
-		static void outputMass<T>(T[,,] mass)
+		void outputMass<T>(T[,,] mass)
 		{
 			for (int x = 0; x < mass.GetLength(0); x++)
 			{
@@ -61,7 +63,7 @@ namespace Task_1_1
 
 
 
-		static void GenerateMassiv<T>(int cx, int cy, int cz, out T[,,] mass)
+		void GenerateMassiv<T>(int cx, int cy, int cz, out T[,,] mass)
 		{ // метод который принимает массив (любого типа, int long short), и сохраняя тип массива генерит его рандомные значения
 			Type t = typeof(T); // получаем тип элемента
 			mass = new T[cx, cy, cz]; // создаем массив определенного размера

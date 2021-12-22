@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class SUM_OF_NUMBERS_1_1_5
+	class SUM_OF_NUMBERS_1_1_5 : Executable
 	{
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.5 sum of number ]<<<--------------]");
 			int summ = 0;
@@ -28,6 +28,7 @@ namespace Task_1_1
 			sum += (min_5 + max_5) * (max_5 / (float)(2 * min_5));
 			sum -= (min_15 + max_15) * (max_15 / (float)(2 * min_3 * min_5));
 			Console.WriteLine("Сумма всех чисел (кратных 3 или 5 и меньше 1000) равна : " + sum);
+			Console.ReadKey();
 		}
 	}
 }

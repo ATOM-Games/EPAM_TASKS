@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class TRIANGLE_1_1_2
+	class TRIANGLE_1_1_2 : Executable
 	{
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.2 Triangle ]<<<--------------]");
 			string command = "";
@@ -24,7 +24,7 @@ namespace Task_1_1
 			}
 		}
 
-		static void OutPutTriangle(int N) {
+		void OutPutTriangle(int N) {
 			for (int i = 0; i < N; Console.WriteLine(new string('*', i+1)), i++) ;
 		}
 	}

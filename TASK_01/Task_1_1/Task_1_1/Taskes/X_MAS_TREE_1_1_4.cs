@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class X_MAS_TREE_1_1_4
+	class X_MAS_TREE_1_1_4 : Executable
 	{
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.4 X-Mas tree ]<<<--------------]");
 			string command = "";
@@ -23,7 +23,7 @@ namespace Task_1_1
 				Console.WriteLine("\n---------------------------\n");
 			}
 		}
-		static void OutPutTriangle(int N)
+		void OutPutTriangle(int N)
 		{
 			for (int z = 1; z <= N; z++) {
 				for (int s = 1; s <= z; s++) {

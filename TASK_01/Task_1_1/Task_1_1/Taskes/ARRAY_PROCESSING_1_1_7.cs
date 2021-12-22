@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class ARRAY_PROCESSING_1_1_7
+	class ARRAY_PROCESSING_1_1_7 : Executable
 	{
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.7 Array processing ]<<<--------------]");
 			long[] qwerty;
@@ -23,9 +23,10 @@ namespace Task_1_1
 
 			var (min, max) = MinMax(qwerty); // метод задания 1.1.7
 			Console.WriteLine($"Минимальное : {min}, тип [{min.GetType()}]\nМаксимальное : {max}, тип [{min.GetType()}]");
+			Console.ReadKey();
 		}
 
-		static (T min, T max) MinMax<T>(T[] mass) where T : IComparable
+		(T min, T max) MinMax<T>(T[] mass) where T : IComparable
 		{
 			Type t = typeof(T);
 			var min = (T)(t.GetField("MaxValue").GetValue(t));

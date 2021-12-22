@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class RECTANGLE_1_1_1
+	class RECTANGLE_1_1_1 : Executable
 	{
-		static public void Execute() {
+		override public void Execute() {
 			Console.WriteLine("[-------------->>>[ 1.1.1 Rectangle ]<<<--------------]");
 			string command = "";
 			int X = 0, Y = 0, Res = 0;
@@ -27,6 +27,6 @@ namespace Task_1_1
 			} 
 		}
 
-		static int Rectangle(int x, int y) => x * y; // метод, подсчитывающий площадь
+		int Rectangle(int x, int y) => x * y; // метод, подсчитывающий площадь
 	}
 }

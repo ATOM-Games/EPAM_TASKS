@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class FONT_ADJUSTMENT_1_1_6
+	class FONT_ADJUSTMENT_1_1_6 : Executable
 	{
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.6 Font Adjustment ]<<<--------------]");
 			string command = "";
@@ -42,10 +42,10 @@ namespace Task_1_1
 			}
 		}
 
-		static bool isSet(int n, int N) => (N.ToString().Contains(n.ToString()));
+		bool isSet(int n, int N) => (N.ToString().Contains(n.ToString()));
 
-		static int setNum(int n, int N) => (N * 10 + n);
+		int setNum(int n, int N) => (N * 10 + n);
 
-		static int delNum(int n, int N) => int.Parse( (N > 10) ? N.ToString().Replace(n.ToString(), string.Empty) : "0" );
+		int delNum(int n, int N) => int.Parse( (N > 10) ? N.ToString().Replace(n.ToString(), string.Empty) : "0" );
 	}
 }

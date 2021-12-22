@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Task_1_1
 {
-	class ARRAY_2D_1_1_10
+	class ARRAY_2D_1_1_10 : Executable
 	{
-		static public void Execute()
+		override public void Execute()
 		{
 			Console.WriteLine("[-------------->>>[ 1.1.10 2D array ]<<<--------------]");
 			int[,] array = new int[5, 5];
@@ -20,9 +20,10 @@ namespace Task_1_1
 
 			int res = summ(array);
 			Console.WriteLine("Summ = " + res);
+			Console.ReadKey();
 		}
 
-		static void outputArray(int[,] mass) {
+		void outputArray(int[,] mass) {
 			for (int y = 0; y < mass.GetLength(0); y++)
 			{
 				for (int x = 0; x < mass.GetLength(1); Console.Write(mass[y, x]+ "\t"), x++) ;
@@ -30,7 +31,7 @@ namespace Task_1_1
 			}
 		}
 
-		static int summ(int[,] mass) {
+		int summ(int[,] mass) {
 			int res = 0;
 			for (int y = 0; y < mass.GetLength(0); y++) {
 				for (int x = y % 2; x < mass.GetLength(1); x += 2) {
