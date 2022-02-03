@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUY7d2xYD6ai/RLQVRKesoYTkVmxs4RWNjnHbZBjopVtUS7i+OimcF8PQ1pi3TCNnWkdgaY6dMluaDBK5ctGZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Documents\\РАБОТА\\ЭПАМ\\EPAM-TASKS\\TASK_01\\Task_1_2\\Task_1_2\\Task_1_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
