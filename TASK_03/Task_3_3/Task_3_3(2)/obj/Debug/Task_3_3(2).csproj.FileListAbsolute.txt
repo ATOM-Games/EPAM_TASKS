@@ -1,0 +1,13 @@
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\bin\Debug\Task_3_3(2).exe
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\bin\Debug\Task_3_3(2).pdb
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3(2).csproj.AssemblyReference.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3_2_.Properties.Resources.resources
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3(2).csproj.GenerateResource.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3(2).csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3(2).exe
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3(2).pdb
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\bin\Debug\Task_3_3(2).exe.config
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3(2).csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3_2_.PapaJons.resources
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3_2_.order.resources
+C:\Users\1\Documents\РАБОТА\ЭПАМ\EPAM-TASKS\TASK_03\Task_3_3\Task_3_3(2)\obj\Debug\Task_3_3_2_.User.resources
