@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e488b59-3540-4728-a6b6-a41b6b41e96f": {
+      "ProjectGuid": "1e488b59-3540-4728-a6b6-a41b6b41e96f",
+      "DisplayName": "Task_3_3",
+      "ColorIndex": 0
+    },
+    "77f2f5df-ade6-4251-be1f-64d66bc7f832": {
+      "ProjectGuid": "77f2f5df-ade6-4251-be1f-64d66bc7f832",
+      "DisplayName": "Task_3_3(2)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
